@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"",
+				"Build With: Python - Syntax Check"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"P2PKH(c) 1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU \n 7.1000377  4  7.1000377\n Random Bitcoin Puzzle #71 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000000800000000000000000 \nStop key 0000000000000000000000000000000000000000000000ffffffffffffffffff \n800000000000000000...ffffffffffffffffff (271...272)\nP2PKH(c) 1JTK7s9YVYywfm5XUH7RNhHJH1LshCaRFR \n 7.20003779  4  7.20003779\n Random Bitcoin Puzzle #72 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000001000000000000000000 \nStop key 0000000000000000000000000000000000000000000001ffffffffffffffffff \n1000000000000000000...1ffffffffffffffffff (272...273)\nP2PKH(c) 12VVRNPi4SJqUTsp6FmqDqY5sGosDtysn4 \n 7.30003777  4  7.30003777\n Random Bitcoin Puzzle #73 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000002000000000000000000 \nStop key 0000000000000000000000000000000000000000000003ffffffffffffffffff \n2000000000000000000...3ffffffffffffffffff (273...274)\nP2PKH(c) 1FWGcVDK3JGzCC3WtkYetULPszMaK2Jksv \n 7.40003777  4  7.40003777\n Random Bitcoin Puzzle #74 Private Keys\nHEX  \nStart key 0000000000000000000000000000000000000000000004000000000000000000 \nStop key 0000000000000000000000000000000000000000000007ffffffffffffffffff \n4000000000000000000...7ffffffffffffffffff (274...275)\nP2PKH(c) 1J36UjUByGroXcCvmj13U6uwaVv9caEeAt \n 0  5  0.75001\n Random Bitcoin Puzzle #75 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000008000000000000000000 \nStop key 000000000000000000000000000000000000000000000fffffffffffffffffff \n8000000000000000000...fffffffffffffffffff (275...276)\nP2PKH(c) 1DJh2eHFYQfACPmrvpyWc8MSTYKh7w9eRF \n 7.6  3  7.6\n Random Bitcoin Puzzle #76 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000010000000000000000000 \nStop key 000000000000000000000000000000000000000000001fffffffffffffffffff \n10000000000000000000...1fffffffffffffffffff (276...277)\nP2PKH(c) 1Bxk4CQdqL9p22JEtDfdXMsng1XacifUtE \n 7.70001826  4  7.70001826\n Random Bitcoin Puzzle #77 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000020000000000000000000 \nStop key 000000000000000000000000000000000000000000003fffffffffffffffffff \n20000000000000000000...3fffffffffffffffffff (277...278)\nP2PKH(c) 15qF6X51huDjqTmF9BJgxXdt1xcj46Jmhb \n 7.8  3  7.8\n Random Bitcoin Puzzle #78 Private Keys\nHEX Unsolved\nStart key 0000000000000000000000000000000000000000000040000000000000000000 \nStop key 000000000000000000000000000000000000000000007fffffffffffffffffff \n40000000000000000000...7fffffffffffffffffff (278...279)\nP2PKH(c) 1ARk8HWJMn8js8tQmGUJeQHjSE7KRkn2t8 \n 7.9  3  7.9\n Random Bitcoin Puzzle #79 Private Keys\nHEX UNSOLVED\nStart key 0000000000000000000000000000000000000000000080000000000000000000 \nStop key 00000000000000000000000000000000000000000000ffffffffffffffffffff \n80000000000000000000...ffffffffffffffffffff (279...280)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/elmar/Downloads/Phone Link/484587717-Three-300-bitcoin-wallets-with-private-keys (1).docx",
+		"/C/Users/elmar/Desktop/wallet 1/Bitcoin/bitcoin.conf",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_6",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_2",
+		"/C/Users/elmar/Desktop/bitaddress.org-3.3.0/package.json",
+		"/C/Users/elmar/Desktop/bitaddress.org-3.3.0/electrum-history-wallet_7.json",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallet_6",
+		"/C/Users/elmar/Dropbox/wallet_14.backup",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_10",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/Transaction ID",
+		"/C/Users/elmar/AppData/Roaming/Electrum/config",
+		"/C/Users/elmar/AppData/Roaming/Electrum/testnet/wallets/default_wallet",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_1",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_3",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_4",
+		"/C/Users/elmar/Desktop/wallet 1/wallets/wallet_14",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidtestnet/wallet_3 2",
+		"/C/Users/elmar/CrossDevice/Homero's S21 FE/storage/Download/484587717-Three-300-bitcoin-wallets-with-private-keys (1).docx",
+		"/C/Users/elmar/AppData/Local/Temp/d472a0f8-26fa-4c8f-ae01-7baf711c3900_com.koykogames.Euphoria21Adventure.rar.900/com.koykogames.Euphoria21Adventure.apk",
+		"/C/Users/elmar/Desktop/wallet 1/wallets/wallet_1",
+		"/C/Users/elmar/CrossDevice/Homero's S21 FE/storage/Download/find-non-standard-tx-master-Elmarinero/find-non-standard-tx-master-Elmarinero/src/main - BITCOIN - BITCOIN.rs",
+		"/C/Users/elmar/AppData/Roaming/Code/Backups/1765254576345/untitled/565eba9b",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallet_4",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/default_wallet",
+		"/C/Users/elmar/AppData/Roaming/Sparrow/wallets/seed meessenger.mv.db",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/zpub",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_7",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallets/wallet_1",
+		"/C/Users/elmar/CrossDevice/Homero's S21 FE/storage/Download/com.koykogames.Euphoria21Adventure.apk",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/wallet_3",
+		"/C/Users/elmar/AppData/Roaming/Sparrow/wallets/seed.mv.db",
+		"/C/Users/elmar/AppData/Local/Bitcoin/bitcoin.conf",
+		"/C/Users/elmar/Downloads/749498712-мануал-кейхант.docx",
+		"/C/Users/elmar/Downloads/848961178-807469110-ACCOUNT-1-obvious-judg.txt",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_13",
+		"/C/Users/elmar/Desktop/wallet 1/wallets/wallet_17",
+		"/D/Phone Link/Puzzle 90_251222_201445.pdf",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_5",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/wallet_1",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/default_wallet",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/wallet_2",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_8",
+		"/C/Users/elmar/AppData/Roaming/Code/Backups/fe81aafea4052e987a83d8df3cac2dde/untitled/-7f9c1a2e",
+		"/C/Users/elmar/AppData/blocks/index/000006.log",
+		"/C/Users/elmar/AppData/blocks/index/000004.log",
+		"/C/Users/elmar/AppData/Roaming/Code/Backups/1768194831461/file/-72e56444",
+		"/C/Users/elmar/AppData/Roaming/Code/Backups/aa522782339bd6705911e6225b4520d5/untitled/-7f9c1a2e",
+		"/C/Users/elmar/Documents/GitHub/bitcoin/src/wallet/scriptpubkeyman.cpp",
+		"/C/Users/elmar/AppData/Roaming/Code/Backups/1765254576345/untitled/-7f9c1a2e",
+		"/C/Users/elmar/AppData/Roaming/Code/Backups/3ce742bce0c4da368765da496e4bf526/untitled/-7f9c1a2e",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/btc scan",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/'ll fetch the Cash App URL to retrieve its public",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/xpub",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallet_2",
+		"/D/electrum_sv_data/wallets/wallets/wallet_13",
+		"/D/electrum_sv_data/wallets/wallets/wallet_8",
+		"/C/Users/elmar/AppData/Local/Programs/Python/Python313/Scripts/electrum",
+		"/C/Users/elmar/AppData/Roaming/Electrum/gossip_db",
+		"/C/Users/elmar/AppData/wallet-keys/wallet-keys.code-workspace",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/wallet_4",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/wallet_6",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/config",
+		"/C/Users/elmar/Desktop/wallet 1/electrum_data/wallets/wallet_7",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallets/wallet_14",
+		"/C/Program Files/Electrum/_internal/setuptools/_vendor/jaraco/text/Lorem ipsum.txt",
+		"/C/Users/elmar/Dropbox/wallet_1",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_9",
+		"/C/Users/elmar/Desktop/wallet_1",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallet_10",
+		"/C/Users/elmar/AppData/Roaming/Microsoft/Crypto/Keys/9db63cb45e86c7794e0ae554ebffcb48_e921d265-495f-47f0-b4ca-ed7b36840ebb",
+		"/C/Users/elmar/CrossDevice/Homero's S21 FE/storage/Download/sweep.png",
+		"/C/Users/elmar/AppData/Local/Bitcoin/wallets/1AaB2jXukNRcY88ichcuSvwvgKkNdWaNPC/database/log.0000000001",
+		"/C/Users/elmar/AppData/wallet-keys/wallet-keys.code-workspace.gpg",
+		"/C/Users/elmar/Dropbox/Notes_241011_091905.pdf",
+		"/C/Users/elmar/Desktop/25.75.dat",
+		"/E/electrum-history-wallet_10.json",
+		"/C/Users/elmar/Downloads/Phone Link/wallet1_05.dat",
+		"/C/Users/elmar/Downloads/Phone Link/630040881-btc-2-docx.docx",
+		"/C/Users/elmar/Downloads/bip-0174 (1).mediawiki",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/2fa",
+		"/C/Users/elmar/Dropbox/default_wallet.backup",
+		"/C/Users/elmar/Downloads/Phone Link/Puzzle 90_251222_201445.pdf",
+		"/C/Users/elmar/Downloads/00000000000000000001f8aa98ce19a1f4eb113f709469c838590edda8b12d94 (3).txt",
+		"/C/Users/elmar/Downloads/secretscan.org_PrivateKeyHex.png",
+		"/C/Users/elmar/Downloads/Connect5000/Connect5000/KeyHunt",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/default_wallet",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/default_wallet.gpg.gpg",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/default_wallet.gpg",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallets/wallet_10",
+		"/C/ProgramData/ssh/electrum/keystore.py",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/xprv",
+		"/C/Users/elmar/AppData/Roaming/Electrum/daemon",
+		"/C/Users/elmar/programming-bitcoin-script/pywallet/.git/hooks/pre-receive.sample",
+		"/C/Users/elmar/programming-bitcoin-script/pywallet/.git/hooks/push-to-checkout.sample",
+		"/C/Users/elmar/AppData/Roaming/Electrum/blockchain_headers",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/ledger",
+		"/C/Program Files/Electrum/_internal/safetlib/tests/txcache/insight_bitcoin_tx_d5f65ee80147b4bcc70b75e4bbf2d7382021b871bd8867ef8fa525ef50864882.json",
+		"/C/Users/elmar/AppData/Roaming/Electrum/forks/fork2_906343_1697c50cff25bcf92d795cab5bdc21eacc3aabdc57aa0_1784f10b0ab41d62235f5e383701e2439466ce7c80ae5",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidtestnet/wallet_1",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_30",
+		"/C/Users/elmar/AppData/Roaming/Electrum/forks/fork2_925051_1a96f998ac724671728a0144b53c2d2024b2d9e7d3692_199dc74f0c7d25adc618618ee00db80884b347253c264",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/liquidv1/wallet_14.backup",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/nefew",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_31",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/meta ai",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/wallet_58",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/electrum-wallet-59/package.json",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/electrum-wallet-59/tsconfig.json",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/electrum-wallet-59/Untitled-1.json",
+		"/C/Users/elmar/Downloads/electrum_data/config",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/wallet_18",
+		"/C/Users/elmar/Downloads/electrum_sv_data/wallets/wallets/wallet_18",
+		"/C/Users/elmar/CrossDevice/Homero's S21 FE/storage/Download/422476462-btc-wallet-address-n-private-key.txt",
+		"/C/Users/elmar/Downloads/Unconfirmed 891485.crdownload",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/.vscode/notepad.js",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/wallet_1",
+		"/D/Users/elmarinero1983/AppData/Roaming/Electrum/wallets/electrum-wallet-59/README.md",
+		"/D/Users/elmarinero1983/electrum/electrum/scripts/txbroadcast.py",
+		"/D/Users/elmarinero1983/electrum/pubkeys/kyuupichan.asc",
+		"/C/Users/elmar/Downloads/bip-0174.mediawiki",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/seed meessenger",
+		"/C/Program Files/Electrum/_internal/electrum_data/blockchain_headers",
+		"/D/Users/elmarinero1983/electrum/pubkeys/sombernight_releasekey.asc",
+		"/D/Users/elmarinero1983/backup",
+		"/D/Users/elmarinero1983/puzzle that works.json",
+		"/D/Users/elmarinero1983/untitled-1.json",
+		"/D/Users/elmarinero1983/cash app lightning.json",
+		"/C/Users/elmar/AppData/Roaming/Electrum/wallets/wallet_41"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 184.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "transaction-signing.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\elmar\\Desktop\\wallet 1\\wallets\\wallet_1"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
